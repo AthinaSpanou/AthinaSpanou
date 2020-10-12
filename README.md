@@ -8,7 +8,7 @@ Hi there 🌸
 
  📬 **Let's get in touch**
 
-- LinkedIn: [Athina Spanou](https://www.linkedin.com/in/athinaspanou/)
+<!-- - LinkedIn: [Athina Spanou](https://www.linkedin.com/in/athinaspanou/)-->
 - Email: [athispanou@gmail.com](athispanou@gmail.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AthinaSpanou)
