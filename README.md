@@ -1,12 +1,12 @@
 Hi there 🌸
 
 **About**
-
- * **Position**: Business Solutions Consultant
+ * **Education**: MSc Candidate in Business Analytics
+ * **Position**: Business Analytics Consultant
  * **Interests**: Deep Learning, Natural Language Processing
  * **Software Stack**: SQL, Python, Spark, Tensorflow, Keras, SAS
 
- 📬 **Let's get in touch**
+ 📬 **Let's get in touch or grab a cup of coffee**
 
 <!-- - LinkedIn: [Athina Spanou](https://www.linkedin.com/in/athinaspanou/)-->
 - Email: [athispanou@gmail.com](athispanou@gmail.com)
