@@ -2,7 +2,7 @@ Hi there 🌸
 
 **About**
  * **Education**: MSc Candidate in Business Analytics
- * **Position**: Senior Business Analytics Consultant [@AnalyticalView](https://www.linkedin.com/company/analytical-view/about/)
+ * **Position**: Business Intelligence Engineer [@Witside](https://witside.com/)
  * **Interests**: Deep Learning, Natural Language Processing
  * **Software Stack**: SQL, Python, Spark, Tensorflow, Keras, SAS
 
