@@ -3,8 +3,8 @@ Hi there 🌸
 **About**
  * **Education**: MSc Candidate in Business Analytics
  * **Position**: Business Intelligence Engineer [@Witside](https://witside.com/)
- * **Interests**: Deep Learning, Natural Language Processing
- * **Software Stack**: SQL, Python, Spark, Tensorflow, Keras, SAS
+ * **Interests**: Business Intelligence, Natural Language Processing, Data Visualization
+ * **Software Stack**: SQL, Python, Spark, Tensorflow, SAS
 
  📬 **Let's get in touch or grab a cup of coffee**
 
