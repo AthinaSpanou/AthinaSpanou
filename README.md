@@ -2,7 +2,7 @@ Hi there 🌸
 
 **About**
  * **Education**: MSc Candidate in Business Analytics
- * **Position**: Business Intelligence Engineer [@Witside](https://witside.com/)
+ * **Position**: Business Intelligence Team Lead [@Witside](https://witside.com/)
  * **Interests**: Business Intelligence, Natural Language Processing, Data Visualization
  * **Software Stack**: SQL, Python, Spark, Tensorflow, SAS
 
